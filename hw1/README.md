@@ -1,0 +1,1 @@
+#This python program is used for scraping yelp restaurants reviews and basic information in New York City at batches.
